@@ -4,7 +4,7 @@ Hola, Mundo!
 # Heading 1
 ## Heading 2
 [Link to page](https://gcardenasortiz.github.io/cse15l-lab-reports-WI24/)
-![Image]([http://url/a.png](https://ucsdnews.ucsd.edu/news_uploads/1280x800_210310-Rainbow7DSC_8071-UCSanDiego-ErikJepsen-1.jpg))
+![Image](https://ucsdnews.ucsd.edu/news_uploads/1280x800_210310-Rainbow7DSC_8071-UCSanDiego-ErikJepsen-1.jpg)
 > Blockquote
 * List
 * List
