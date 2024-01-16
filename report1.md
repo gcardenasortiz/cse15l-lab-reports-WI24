@@ -1,34 +1,32 @@
 # Report #1
 ## cd
 1. No arguments
-   
-![Image] (cd.png)
+![Image](cd.png)
 
    
 2. Directory as an argument
 
-![Image] (cdd.png)
+![Image](cdd.png)
 
 
 3. File as an argument
    
- ![Image] (cdf.png)
+ ![Image](cdf.png)
 
 
 ## ls
 1. No arguments
 
-![Image] (ls.png)
+![Image](ls.png)
 
 
 2. Directory as an argument
-
-![Image] (lsd.png)
+![Image](lsd.png)
 
 
 3. File as an argument
 
-![Image] (lsf.png)
+![Image](lsf.png)
 
 
 ## cat
