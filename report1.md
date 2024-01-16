@@ -3,7 +3,7 @@
 1. No arguments
    
 ![Image](cd.png)
-
+The working directory at the time was /home. As you can see the reason that we got that output is become when the cd command is run, it returns to /home. As such, it is not an error.
    
 2. Directory as an argument
 
