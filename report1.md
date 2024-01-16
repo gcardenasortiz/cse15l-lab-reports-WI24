@@ -5,12 +5,12 @@
 ![Image] (cd.png)
 
    
-3. Directory as an argument
+2. Directory as an argument
 
 ![Image] (cdd.png)
 
 
-5. File as an argument
+3. File as an argument
    
  ![Image] (cdf.png)
 
@@ -21,12 +21,12 @@
 ![Image] (ls.png)
 
 
-3. Directory as an argument
+2. Directory as an argument
 
 ![Image] (lsd.png)
 
 
-5. File as an argument
+3. File as an argument
 ![Image] (lsf.png)
 
 
