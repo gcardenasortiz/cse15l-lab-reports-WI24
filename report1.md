@@ -5,7 +5,7 @@
 ![Image](cd.png)
 
    
-3. Directory as an argument
+2. Directory as an argument
 
 ![Image](cdd.png)
 
@@ -22,6 +22,7 @@
 
 
 2. Directory as an argument
+   
 ![Image](lsd.png)
 
 
