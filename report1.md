@@ -35,7 +35,7 @@ The working directory at the time was /home. The reason this is what ls with a d
 
 ![Image](lsf.png)
 
-The working directroy at the time was either /home/lecture1. The reason for this output is that it lists the file that is used as an argument. Thus, it isn't an error.
+The working directory at the time was either /home/lecture1. The reason for this output is that it lists the file that is used as an argument and nothing else. Thus, it isn't an error.
 
 ## cat
 1. No arguments
@@ -48,9 +48,10 @@ The working directory at the time was /home. The reason for this output is that 
 
 ![Image](catd.png)
 
-
+The working directory at the time was /home. The reason for this output is that cat cannot display the contents of the file because the argument is not a file. Since the argument isn't a file, it throws up an error saying that the argument is a directory.
    
 4. File as an argument
    
 ![Image](catf.png)
 
+The working directory at the time /home. The reason for this output is that cat displays the contents of the file. Since the argument is a file, it displays what is in the "pt-br" file. Thus, this isn't an error.
