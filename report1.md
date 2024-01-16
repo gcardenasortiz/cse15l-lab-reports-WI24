@@ -1,7 +1,7 @@
 # Report #1
 ## cd
 1. No arguments
-   ![Image] (cd.png)
+![Image] (cd.png)
    
 3. Directory as an argument
    
