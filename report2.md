@@ -1,6 +1,7 @@
 # Report #2
 ## Part 1
 **My Code**
+
 ![Image](code1.png)
 
 
