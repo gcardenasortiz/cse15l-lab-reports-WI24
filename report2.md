@@ -31,4 +31,5 @@ Both methods, handleRequest and my main method, were called. My code only needs 
 
 ## Part 3
 **What I learned**
+
 I ended up learning a lot this week and last week. Specifically about the `ssh` command, which allows you to access a remote server through your computer. For example, for Lab 2 and as well as Lab 3 we utilized it to log into our `ieng6` account by following the following notation: `yourusername@ieng6.ucsd.edu`.
