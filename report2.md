@@ -6,11 +6,11 @@
 
 ![Image](ss1.png) 
 
-
+Both methods, handleRequest and my main method, were called. My code only needs two separate arguments to work properly, the first argument is **
 
 ![Image](ss2.png)
 
-Both methods, handleRequest and my main method, were called.
+Both methods, handleRequest and my main method, were called. My code onlys needs two separate argyments to work properly, the first argument is the url
 
 
 
