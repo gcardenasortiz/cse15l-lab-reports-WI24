@@ -19,15 +19,15 @@ Both methods, handleRequest and my main method, were called. My code only needs 
 ## Part 2
 **Absolute path to private key**
 
-![Image](pvk.png)
+![Image](pvk2.png)
 
 **Absolute path to public key**
 
-![Image](pck.png)
+![Image](pck2.png)
 
 **Terminal Interaction**
 
-![Image](np.png)
+![Image](np2.png)
 
 ## Part 3
 **What I learned**
