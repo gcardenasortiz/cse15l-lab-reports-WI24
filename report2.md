@@ -23,7 +23,7 @@ Both methods, handleRequest and my main method, were called. My code only needs 
 
 **Absolute path to public key**
 
-![Image](pck2.png)
+![Image](pck3.png)
 
 **Terminal Interaction**
 
