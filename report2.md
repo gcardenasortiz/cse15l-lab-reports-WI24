@@ -8,7 +8,7 @@
 
 ![Image](ss1.png) 
 
-Both methods, handleRequest and my main method, were called. My code only needs two separate arguments to work properly, the first argument in this case is the url `localhost:1600/add-message?s=Hello&user=Me`. The second argument is for my main method when I run my server. When I run it by typing `java ChatServer 1600` in the terminal, the argument is the 1600 contained in `args` which states what port it will use. Before this request is sent through, the field `str` is an empty string as `""`. However, after this request is sent through `str` becomes `"Me: Hello\n"`. The other relevant field is my array of String arrays `newParameters`, for this specific request `newParameters` contains `[["s", "Hello"], ["user", "Me"]]`.
+Both methods, handleRequest and my main method, were called. My code only needs two separate arguments to work properly, the first argument in this case is the url `localhost:1600/add-message?s=Hello&user=Me`. The second argument is for my main method when I run my server. When I run it by typing `java ChatServer 1600` in the terminal, the argument is the `1600` contained in `args` which states what port it will use. Before this request is sent through, the field `str` is an empty string as `""`. However, after this request is sent through `str` becomes `"Me: Hello\n"`. The other relevant field is my array of String arrays `newParameters`, for this specific request `newParameters` contains `[["s", "Hello"], ["user", "Me"]]`.
 
 **Message 2**
 
