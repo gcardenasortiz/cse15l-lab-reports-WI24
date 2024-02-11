@@ -77,7 +77,7 @@ gcardenasortiz@Gwendals-Air technical % find ./ -type f
 .//government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
 .//government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
 ```
-The `-type` option for the `find` command is useful for finding what we are looking for. In this case, we are trying to find only the files in a given directory.
+The `-type` option for the `find` command is useful for finding what we are looking for. In this case, we are trying to find only the files in a given directory. I was able to learn how to utilize by using `man find`.
 
 ```
 gcardenasortiz@Gwendals-Air technical % find ./ -type d
@@ -93,7 +93,7 @@ gcardenasortiz@Gwendals-Air technical % find ./ -type d
 .//biomed
 .//911report
 ```
-The `-type` option for the `find` command is useful for finding what we are looking for. In this case, we are trying to find only the directories in a given directory.
+The `-type` option for the `find` command is useful for finding what we are looking for. In this case, we are trying to find only the directories in a given directory. I was able to learn how to utilize it by using `man find`.
 
 **links**
 
