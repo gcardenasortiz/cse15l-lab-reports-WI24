@@ -14,7 +14,7 @@
 	}
 ```
 
-The second test seems to fail due to a buggy implementation of the reverseInPlace method. Which shows us this error in the terminal:
+The second test seems to fail due to a flawed implementation of the reverseInPlace method. Which shows us this error in the terminal:
 ```
 arrays first differed at element [2]; expected:[3] but was:[1]
  at ArrayTests.testReverseInPlace(ArrayTests.java:13)
