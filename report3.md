@@ -55,7 +55,48 @@ static void reverseInPlace(int[] arr) {
 }
 ```
 
-The issue was the logic behind overwriting the elements in the array. Before the array would use an already overwrittten element. However, by cutting the array in half and storing the value of the original index temporarily. It allows us to succesfully overwrite each element without crossing over.
+The issue was the logic behind overwriting the elements in the array. Before the array would use an already overwrittten element. However, by cutting the iterations in half and storing the value of the original index temporarily it allows us to succesfully overwrite each element without crossing over.
 
 ## Part 2
 ### The find command
+
+**iname**
+
+
+
+**type**
+```
+gcardenasortiz@Gwendals-Air technical % find ./ -type f
+.//government/About_LSC/LegalServCorp_v_VelazquezSyllabus.txt
+.//government/About_LSC/Progress_report.txt
+.//government/About_LSC/Strategic_report.txt
+.//government/About_LSC/Comments_on_semiannual.txt
+.//government/About_LSC/Special_report_to_congress.txt
+.//government/About_LSC/CONFIG_STANDARDS.txt
+.//government/About_LSC/commission_report.txt
+.//government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
+.//government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
+```
+The `-type` option for the `find` command is useful for finding what we are looking for. In this case, we are trying to find only the files in a given directory.
+
+```
+gcardenasortiz@Gwendals-Air technical % find ./ -type d
+./
+.//government
+.//government/About_LSC
+.//government/Env_Prot_Agen
+.//government/Alcohol_Problems
+.//government/Gen_Account_Office
+.//government/Post_Rate_Comm
+.//government/Media
+.//plos
+.//biomed
+.//911report
+```
+The `-type` option for the `find` command is useful for finding what we are looking for. In this case, we are trying to find only the directories in a given directory.
+
+**links**
+
+
+
+**print**
