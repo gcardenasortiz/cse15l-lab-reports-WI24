@@ -8,5 +8,10 @@
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
 ```
+**Successful Input**
+
+**Symptom**
+
+**Bug Fix**
 
 ## Part 2
