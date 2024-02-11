@@ -35,6 +35,7 @@ However, the first input of this test seems to work just fine.
 As you can see, there seems to be an issue with assigning the new values to their respective spots in the array in our method when we run the test that contains the above two inputs. 
 
 **Bug Fix**
+
 Before fixing it:
 ```
 static void reverseInPlace(int[] arr) {
@@ -57,3 +58,4 @@ static void reverseInPlace(int[] arr) {
 The issue was the logic behind overwriting the elements in the array. Before the array would use an already overwrittten element. However, by cutting the array in half and storing the value of the original index temporarily. It allows us to succesfully overwrite each element without crossing over.
 
 ## Part 2
+### The find command
