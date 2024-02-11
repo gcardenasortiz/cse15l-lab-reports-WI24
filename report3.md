@@ -73,7 +73,7 @@ Caused by: java.lang.AssertionError: expected:<3> but was:<1>
         at org.junit.internal.ComparisonCriteria.arrayEquals(ComparisonCriteria.java:76)
         ... 31 more
 ```
-Running the test gives us this quite big error message, however we are able to see what the issues are from just these two lines `arrays first differed at element [2]; expected:<3> but was:<1>` and
+Running the test that contains these two inputs gives us this quite big error message, however we are able to see what the issues are from just these two lines `arrays first differed at element [2]; expected:<3> but was:<1>` and
 `Caused by: java.lang.AssertionError: expected:<3> but was:<1>`.
 
 **Bug Fix**
