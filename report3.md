@@ -30,10 +30,30 @@ However, the first input of this test seems to work just fine.
 
 **Symptom**
 
-![Image](sym.png)
+![Image](symp.png)
 
 As you can see, there seems to be an issue with assigning the new values to their respective spots in the array in our method when we run the test that contains the above two inputs. 
 
 **Bug Fix**
+Before fixing it:
+```
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i++) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+}
+```
+After fixing it:
+```
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length / 2; i++) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = temp;
+    }
+}
+```
+
+The issue was the logic behind overwriting the elements in the array. Before the array would use an already overwrittten element. However, by cutting the array in half and storing the value of the original index temporarily. It allows us to succesfully overwrite each element without crossing over.
 
 ## Part 2
