@@ -1,5 +1,6 @@
 # Report #4
 ## Log into ieng6
+<img width="566" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/2418aab5-dcf0-4532-b1c0-605fab795ae6">
 
 
 
