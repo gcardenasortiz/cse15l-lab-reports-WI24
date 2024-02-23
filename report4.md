@@ -18,7 +18,7 @@ First, I used `<command + c>` to copy the `ssh` key from github then `<command +
 
 Keys pressed : `<c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h>`
 
-The command `cd` allows me to switch into the repository that we cloned. The command `bash` runs the shell script that contains the commands to run the tests.
+The command `cd` allows me to switch into the repository that we cloned. Once I was in the `lab7` directory, I run the command `bash` which runs the shell script that contains the commands to run the tests. However, the test fails due to a bug.
 
 
 ## Edit the code file to fix the failing test
