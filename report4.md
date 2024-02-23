@@ -4,6 +4,9 @@
 
 Keys pressed: `<s><s><h>< ><g><c><a><r><d><e><n><a><s><o><r><t><i><z><@><i><e><n><g><6><.><u><c><s><d><.><e><d><u><enter>`
 
+The command ran was ssh which allows me to remotely access a server, in this case allowing me to login to my ien6 account.
+
+
 ## Clone your fork of the repository from your Github account (using the SSH URL)
 
 
