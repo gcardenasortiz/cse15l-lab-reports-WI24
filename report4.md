@@ -11,7 +11,7 @@ The command ran was `ssh` which allows me to remotely access a server, in this c
 <img width="566" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/3e0565de-94c0-4e11-9db1-b0f73f28c5f6">
 
 
-Keys pressed:  `<command + c> <g> <i> <t> <space> <c> <l> <o> <n> <e> <space> <command + v>`
+Keys pressed:  `<command + c> <g> <i> <t> <space> <c> <l> <o> <n> <e> <space> <command + v> <enter>`
 
 First, I used `<command + c>` to copy the `ssh` key from github then `<command + v>` to paste the key to use with the `git clone` command. This command clones the repository to my machine for my use.
 
@@ -27,7 +27,9 @@ The command `cd` allows me to switch into the repository that we cloned. Once I 
 ## Edit the code file to fix the failing test
 <img width="416" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/01dd8364-a58a-42b3-b922-4e71bea7068e">
 
-Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
+Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
+
+The command `vim` opens up the text editor so once I use that command on the file I want to modify, it will open it and I will be able to modify it. Once I am in the `vim` editor, I use the `?` `vim` command which searches the document from back to front since the word I am looking for `index1` is in the back of the code. Once I press enter, it takes me straight to the word where I use the `i` `vim` command to enter 
 
 ## Run the tests, demonstrating that they now succeed
 
