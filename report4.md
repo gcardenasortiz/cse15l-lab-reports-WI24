@@ -19,14 +19,15 @@ First, I used `<command + c>` to copy the `ssh` key from github then `<command +
 <img width="598" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/c0d9efb4-1bfc-4e14-9c03-778e61ba5ad0">
 
 
-Keys pressed : `<c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h>`
+Keys pressed: `<c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h>`
 
 The command `cd` allows me to switch into the repository that we cloned. Once I was in the `lab7` directory, I run the command `bash` which runs the shell script that contains the commands to run the tests. However, the test fails due to a bug.
 
 
 ## Edit the code file to fix the failing test
+<img width="416" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/01dd8364-a58a-42b3-b922-4e71bea7068e">
 
-
+Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> `
 
 ## Run the tests, demonstrating that they now succeed
 
