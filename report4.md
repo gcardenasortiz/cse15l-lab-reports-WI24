@@ -9,12 +9,14 @@ The command ran was `ssh` which allows me to remotely access a server, in this c
 ## Clone your fork of the repository from your Github account (using the SSH URL)
 <img width="566" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/3e0565de-94c0-4e11-9db1-b0f73f28c5f6">
 
-Keys pressed:  `<command + c> <g> <i> <t> <space> <c> <l> <o> <n> <e> <command + v>`
+Keys pressed:  `<command + c> <g> <i> <t> <space> <c> <l> <o> <n> <e> <space> <command + v>`
 
 First, I used `<command + c>` to copy the ssh key from github then `<command + v>` to paste the key to use with the `git clone` command. This command clones the repository to my machine for my use.
 
 ## Run the tests, demonstrating that they fail
+<img width="769" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/118bf5e8-6478-4c88-8cf4-b866ffe4c93f">
 
+Keys pressed : `<c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h>
 
 
 ## Edit the code file to fix the failing test
