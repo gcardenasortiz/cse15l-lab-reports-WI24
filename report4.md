@@ -16,7 +16,7 @@ Keys pressed:  `<command + c> <g> <i> <t> <space> <c> <l> <o> <n> <e> <space> <c
 First, I used `<command + c>` to copy the `ssh` key from github then `<command + v>` to paste the key to use with the `git clone` command. This command clones the repository to my machine for my use.
 
 ## Run the tests, demonstrating that they fail
-<img width="769" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/118bf5e8-6478-4c88-8cf4-b866ffe4c93f">
+<img width="598" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/c0d9efb4-1bfc-4e14-9c03-778e61ba5ad0">
 
 
 Keys pressed : `<c> <d> <space> <l> <a> <b> <7> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h>`
