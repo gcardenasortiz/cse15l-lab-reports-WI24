@@ -46,5 +46,5 @@ Now that I am out of the file, I use the `bash` command in order to run my shell
 
 Keys pressed: <g> <i> <t> <space> <c> <o> <m> <m> <i> <t> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <i> <F> <i> <x> <e> <d> <space> <a> <space> <b> <u> <g> <esc> <:> <w> <q> <enter> <g> <i> <t> <space> <p> <u> <s> <h> <enter>
 
-I use the command `git commit` to commit my changes which opens up the text editor which allows me to input a commit message. Then I use the `<i>` `vim` command to enter insert mode so I can type out my message. After that, I save and quit which commits my changes. Then after that I use the `git push` command to push my changes to the repository.
+I use the command `git commit` to commit my changes which opens up the text editor which allows me to input a commit message. Then I use the `<i>` `vim` command to enter insert mode so I can type out my message. After that, I exkt insert mode and use the `<:wq>` `vim` command which commits my changes. Then after that I use the `git push` command to push my changes to the repository.
 
