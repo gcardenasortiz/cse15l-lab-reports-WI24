@@ -44,7 +44,7 @@ Now that I am out of the file, I use the `bash` command in order to run my shell
 <img width="564" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/802988c9-9942-47e3-a6bc-a139c75765da">
 <img width="910" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/67ffc238-b1f8-4811-9e9c-4d3e82efdd33">
 
-Keys pressed: <g> <i> <t> <space> <c> <o> <m> <m> <i> <t> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <i> <F> <i> <x> <e> <d> <space> <a> <space> <b> <u> <g> <esc> <:> <w> <q> <enter> <g> <i> <t> <space> <p> <u> <s> <h> <enter>
+Keys pressed: `<g> <i> <t> <space> <c> <o> <m> <m> <i> <t> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <i> <F> <i> <x> <e> <d> <space> <a> <space> <b> <u> <g> <esc> <:> <w> <q> <enter> <g> <i> <t> <space> <p> <u> <s> <h> <enter>`
 
 I use the command `git commit` to commit my changes which opens up the text editor which allows me to input a commit message. Then I use the `<i>` `vim` command to enter insert mode so I can type out my message. After that, I exkt insert mode and use the `<:wq>` `vim` command which commits my changes. Then after that I use the `git push` command to push my changes to the repository.
 
