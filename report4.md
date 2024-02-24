@@ -30,7 +30,7 @@ The command `cd` allows me to switch into the repository that we cloned. Once I 
 
 Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q>` 
 
-The command `vim` opens up the text editor so once I use that command on the file I want to modify, it will open it and I will be able to modify it. Once I am in the `vim` editor, I use the `<?>` `vim` command which searches the document from back to front since the word I am looking for `index1` is in the back of the code. Once I press enter, it takes me straight to the word where I use the `<i>` `vim` command to enter insert mode which allows me to modify the file directly, then I delete the character and change it. I press `<esc>` to exit inset mode. Then I use the `vim` command `<:wq>` in order to save and quit the file.
+The command `vim` opens up the text editor so once I use that command on the file I want to modify, it will open it and I will be able to modify it. Once I am in the `vim` editor, I use the `<?>` `vim` command which searches the document from back to front since the word I am looking for `index1` is in the back of the code. Once I press enter, it takes me straight to the word where I use the `<i>` `vim` command to enter insert mode which allows me to modify the file directly, then I delete the character and change it. I press `<esc>` to exit insert mode. Then I use the `vim` command `<:wq>` in order to save and quit the file.
 
 ## Run the tests, demonstrating that they now succeed
 <img width="564" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/9a56607d-293b-4e40-b99c-1ca373824c68">
@@ -40,5 +40,11 @@ Keys pressed: `<b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
 Now that I am out of the file, I use the `bash` command in order to run my shell script. This time all my tests pass.
 
 ## Commit and push the resulting change to your Github account (you can pick any commit message!)
+<img width="564" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/3a6a62b1-f87a-4bf3-99de-6f855f7c6d20">
+<img width="564" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/802988c9-9942-47e3-a6bc-a139c75765da">
+<img width="910" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/67ffc238-b1f8-4811-9e9c-4d3e82efdd33">
 
+Keys pressed: <g> <i> <t> <space> <c> <o> <m> <m> <i> <t> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <i> <F> <i> <x> <e> <d> <space> <a> <space> <b> <u> <g> <esc> <:> <w> <q> <enter> <g> <i> <t> <space> <p> <u> <s> <h> <enter>
+
+I use the command `git commit` to commit my changes which opens up the text editor which allows me to input a commit message. Then I use the `<i>` `vim` command to enter insert mode so I can type out my message. After that, I save and quit which commits my changes. Then after that I use the `git push` command to push my changes to the repository.
 
