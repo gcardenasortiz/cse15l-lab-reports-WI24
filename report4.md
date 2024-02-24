@@ -25,7 +25,9 @@ The command `cd` allows me to switch into the repository that we cloned. Once I 
 
 
 ## Edit the code file to fix the failing test
-<img width="564" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/538ec071-f96d-44d7-9e43-dd3d58d4cc0e">
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q> <enter> <b> <a> <s> <h> <space> <t> <e> <s> <t> <.> <s> <h> <enter>`
 
