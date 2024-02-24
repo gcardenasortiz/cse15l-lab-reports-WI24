@@ -28,7 +28,7 @@ The command `cd` allows me to switch into the repository that we cloned. Once I 
 <img width="564" alt="image" src="https://github.com/gcardenasortiz/cse15l-lab-reports-WI24/assets/156359594/c576efca-0e1f-4f41-b904-cbb0213f90ae">
 
 
-Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q> 
+Keys pressed: `<v> <i> <m> <space> <L> <i> <s> <t> <E> <x> <a> <m> <p> <l> <e> <s> <.> <j> <a> <v> <a> <enter> <?> <i> <n> <d> <e> <x> <1> <enter> <i> <delete> <2> <esc> <:> <w> <q>` 
 
 The command `vim` opens up the text editor so once I use that command on the file I want to modify, it will open it and I will be able to modify it. Once I am in the `vim` editor, I use the `<?>` `vim` command which searches the document from back to front since the word I am looking for `index1` is in the back of the code. Once I press enter, it takes me straight to the word where I use the `<i>` `vim` command to enter insert mode which allows me to modify the file directly, then I delete the character and change it. I press `<esc>` to exit inset mode. Then I use the `vim` command `<:wq>` in order to save and quit the file.
 
