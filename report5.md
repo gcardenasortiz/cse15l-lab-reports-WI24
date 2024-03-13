@@ -53,6 +53,8 @@ grader-review-gcardenasortiz/
 
 #### How to fix the bug
 
-The bug seems to be a systems error, meaning it is entirely dependent on where the script is ran. To make it compatible with all systems you need to adjust 
+The bug seems to be a systems error, meaning it is entirely dependent on where the script is ran. To make it compatible with all systems you only need to adjust the line `cp -r student-submission/ grading-area/` to `cp -r student-submission/* grading-area/` as the original line has different behavior depending on the system. Making the change `*` makes sure that only the files inside the directory are copied instead of the directory itself regardless of where the script is ran.
 
 ## Part 2
+
+Something I learned in the second half of this quarter that I didn't know before is debugging with jdb. It seems to be extremely useful as the whole setting breakpoints thing allows me to effectively stop my code at certain moments and ensure that its behavior is exactly what I want. I will probably be using that the most along with vim.
